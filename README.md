@@ -40,3 +40,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVVR-369&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishnuVVR-369&theme=dracula" />
 </p>
+
+![Vishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=VishnuVVR-369&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
