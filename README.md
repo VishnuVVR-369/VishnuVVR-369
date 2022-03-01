@@ -41,3 +41,5 @@
 </p>
 
 ![Vishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=VishnuVVR-369&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>
