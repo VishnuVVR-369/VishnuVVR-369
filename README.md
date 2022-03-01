@@ -11,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/VishnuVVR-369?style=social)](https://github.com/VishnuVVR-369?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/)
 [![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/8186886586)
-[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Vishnuv25035868)
+[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/VishnuVVRTech)
 [![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/vishnuvardhanreddy.ganji.56)
 [![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/v_i_s_h_n_u__vvr/)
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:vishnuvardhanganji@gmail.com)
@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="27px" /> </a>
 <a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" width="27px" /> </a>
 <a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Akash's Facebook" width="27px" /> </a>
-<a href="https://twitter.com/Vishnuv25035868" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="27px" /> </a>
+<a href="https://twitter.com/VishnuVVRTech" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="27px" /> </a>
 <a href="mailto:vishnuvardhanganji@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="27px"/> </a>
 
 ### :zap: GitHub Stats
