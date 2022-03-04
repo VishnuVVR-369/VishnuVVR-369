@@ -2,7 +2,8 @@
   <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/developer1.gif" width="300px">
 </p>
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://vishnu-1105.github.io/my-portfolio/"> VishnuVardhan Reddy </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="50px"></h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://vishnu-1105.github.io/my-portfolio/"> VishnuVardhan Reddy </a> </h1>
+<!-- <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/developer1.gif" width="50px"> -->
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/VishnuVVR-369)
 ![Profile Visitors](https://komarev.com/ghpvc/?username=VishnuVVR-369&color=green)
@@ -20,23 +21,23 @@
 
 - 🔭 I'm in the 3<sup>rd</sup> year of B.Tech Computer Science.
 - 🌱 I’m currently working on Open-Source.
-- :zap: I’m currently learning Machine Learning.
+- 😎 I’m currently learning Machine Learning.
 - 🎯 I’m focusing on Competitive Programming.
 
 # 📫 How to reach me :
 
-<a href="https://wa.me/8186886586" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="27px" /> </a>
-<a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="27px" /> </a>
-<a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" width="27px" /> </a>
-<a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Akash's Facebook" width="27px" /> </a>
-<a href="https://twitter.com/VishnuVVRTech" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="27px" /> </a>
-<a href="mailto:vishnuvardhanganji@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="27px"/> </a>
+<a href="https://wa.me/8186886586" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-whatsapp.png" width="27px" /> </a>
+<a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/002-linkedin.png" width="27px" /> </a>
+<a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/003-instagram.png" width="27px" /> </a>
+<a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/004-facebook.png" alt="Vishnu's Facebook" width="27px" /> </a>
+<a href="https://twitter.com/VishnuVVRTech" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/006-twitter.png" width="27px" /> </a>
+<a href="mailto:vishnuvardhanganji@gmail.com"> <img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/007-gmail.png" width="27px"/> </a>
 
-TODO: Add Project Open for Contribution.
+<!-- TODO: Add Project Open for Contribution. -->
 
-TODO: Add GitHub Trophies.
+<!-- TODO: Add GitHub Trophies. -->
 
-TODO: Add Tech ToolBox.
+<!-- TODO: Add Tech ToolBox. -->
 
 ### :zap: GitHub Stats
 
@@ -50,8 +51,8 @@ TODO: Add Tech ToolBox.
 
 ![Vishnu's github activity graph](https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
-TODO: Add MyCertificates.
+<!-- TODO: Add MyCertificates. -->
 
-TODO:Add Social Media Handles.
+<!-- TODO:Add Social Media Handles. -->
 
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/marquee.svg"/>
