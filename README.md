@@ -32,6 +32,12 @@
 <a href="https://twitter.com/VishnuVVRTech" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="27px" /> </a>
 <a href="mailto:vishnuvardhanganji@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="27px"/> </a>
 
+TODO: Add Project Open for Contribution.
+
+TODO: Add GitHub Trophies.
+
+TODO: Add Tech ToolBox.
+
 ### :zap: GitHub Stats
 
 <p align="center">&nbsp;
@@ -43,5 +49,9 @@
 ![Vishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=VishnuVVR-369&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 ![Vishnu's github activity graph](https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+TODO: Add MyCertificates.
+
+TODO:Add Social Media Handles.
 
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>
