@@ -14,13 +14,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: sponsor, maintainer, octonaut
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
