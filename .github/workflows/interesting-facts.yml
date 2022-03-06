@@ -1,0 +1,23 @@
+name: Interesting-Facts
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-interesting-facts
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.habits.facts.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_habits: yes
+        plugin_habits_from: 1000
+        plugin_habits_days: 30
+        plugin_habits_facts: yes
+        plugin_habits_charts: yes
