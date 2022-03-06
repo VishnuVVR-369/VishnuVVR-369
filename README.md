@@ -38,8 +38,27 @@
 <!-- TODO: Add GitHub Trophies. -->
 
 <!-- TODO: Add Tech ToolBox. -->
+<br>
 
-### :zap: GitHub Stats
+# 🧰 My Tech Toolbox :
+
+<p align="left">
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-python.png" alt="Python" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/004-c.png" alt="C++" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/005-java.png" alt="Java" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/003-html-5.png" alt="HTML5" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/006-css-3.png" alt="CSS3" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/002-js.png" alt="JavaScript" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/010-structure.png" alt="React" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/008-nodejs.png" alt="Node JS" width="40" height="40"/></code>
+  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="Git" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/007-github.png" alt="GitHub" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/009-mysql.png" alt="MySql" width="40" height="40"/></code>
+</p>
+
+<br>
+
+# 📊 My GitHub Stats :
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuVVR-369&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Cheers 🥂 Programmers! &layout=compact" /><br><br>
