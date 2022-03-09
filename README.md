@@ -24,7 +24,7 @@
 - 😎 I’m currently learning Machine Learning.
 - 🎯 I’m focusing on Competitive Programming.
 
-# 📫 How to reach me :
+# 📫 How to reach me
 
 <a href="https://wa.me/8186886586" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-whatsapp.png" width="27px" /> </a>
 <a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/002-linkedin.png" width="27px" /> </a>
@@ -33,14 +33,20 @@
 <a href="https://twitter.com/VishnuVVRTech" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/006-twitter.png" width="27px" /> </a>
 <a href="mailto:vishnuvardhanganji@gmail.com"> <img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/007-gmail.png" width="27px"/> </a>
 
+<br>
 <!-- TODO: Add Project Open for Contribution. -->
 
-<!-- TODO: Add GitHub Trophies. -->
+# 🏆 GitHub Trophies
 
-<!-- TODO: Add Tech ToolBox. -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=VishnuVVR-369&column=8&margin-w=15&margin-h=15&theme=onedark"/>
+  </a>
+</p>
+
 <br>
 
-# 🧰 My Tech Toolbox :
+# 🧰 My Tech Toolbox
 
 <p align="left">
   <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-python.png" alt="Python" width="40" height="40"/></code>
@@ -58,7 +64,7 @@
 
 <br>
 
-# 📊 My GitHub Stats :
+# 📊 My GitHub Stats
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuVVR-369&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Cheers 🥂 Programmers! &layout=compact" /><br><br>
