@@ -1,0 +1,19 @@
+name: Lines of code changed
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-lines-changed
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: lines.changed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
