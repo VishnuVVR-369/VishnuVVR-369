@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/developer1.gif" width="300px">
+  <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/developer1.gif" width="300px">
 </p>
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://vishnu-1105.github.io/my-portfolio/"> VishnuVardhan Reddy </a> </h1>
@@ -26,27 +26,27 @@
 
 # 👨‍🎓 Programming Profiles
 
-<a href="https://www.codechef.com/users/vishnu_vvr" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/codechef.png"/> </a>
+<a href="https://www.codechef.com/users/vishnu_vvr" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/codechef.png"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Vishnu_1105" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/codeforces.png"/> </a>
+<a href="https://codeforces.com/profile/Vishnu_1105" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/codeforces.png"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/vishnuvardhanganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/leetcode.png"/> </a>
+<a href="https://leetcode.com/vishnuvardhanganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/leetcode.png"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/vishnuvardhanga1" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/hackerrank.png"/> </a>
+<a href="https://www.hackerrank.com/vishnuvardhanga1" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/hackerrank.png"/> </a>
 
 # 📫 How to reach me
 
-<a href="https://wa.me/8186886586" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-whatsapp.png" width="27px" /> </a>
+<a href="https://wa.me/8186886586" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/001-whatsapp.png" width="27px" /> </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/002-linkedin.png" width="27px" /> </a>
+<a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/002-linkedin.png" width="27px" /> </a>
 &nbsp;
-<a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/003-instagram.png" width="27px" /> </a>
+<a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/003-instagram.png" width="27px" /> </a>
 &nbsp;
-<a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/004-facebook.png" alt="Vishnu's Facebook" width="27px" /> </a>
+<a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/004-facebook.png" alt="Vishnu's Facebook" width="27px" /> </a>
 &nbsp;
-<a href="https://twitter.com/VishnuVVRTech" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/006-twitter.png" width="27px" /> </a>
+<a href="https://twitter.com/VishnuVVRTech" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/006-twitter.png" width="27px" /> </a>
 &nbsp;
-<a href="mailto:vishnuvardhanganji@gmail.com"> <img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/007-gmail.png" width="27px"/> </a>
+<a href="mailto:vishnuvardhanganji@gmail.com"> <img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/007-gmail.png" width="27px"/> </a>
 &nbsp;
 
 <br>
@@ -65,17 +65,17 @@
 # 🧰 My Tech Toolbox
 
 <p align="left">
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-python.png" alt="Python" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/004-c.png" alt="C++" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/005-java.png" alt="Java" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/003-html-5.png" alt="HTML5" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/006-css-3.png" alt="CSS3" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/002-js.png" alt="JavaScript" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/010-structure.png" alt="React" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/008-nodejs.png" alt="Node JS" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/001-python.png" alt="Python" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/004-c.png" alt="C++" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/005-java.png" alt="Java" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/003-html-5.png" alt="HTML5" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/006-css-3.png" alt="CSS3" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/002-js.png" alt="JavaScript" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/010-structure.png" alt="React" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/008-nodejs.png" alt="Node JS" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="Git" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/007-github.png" alt="GitHub" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/009-mysql.png" alt="MySql" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/007-github.png" alt="GitHub" width="40" height="40"/></code>
+  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/009-mysql.png" alt="MySql" width="40" height="40"/></code>
 </p>
 
 <br>
@@ -96,4 +96,4 @@
 
 <!-- TODO:Add Social Media Handles. -->
 
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/marquee.svg"/>
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/marquee.svg"/>
