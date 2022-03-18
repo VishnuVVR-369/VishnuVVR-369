@@ -33,6 +33,13 @@
 <a href="https://leetcode.com/vishnuvardhanganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/leetcode.png"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/vishnuvardhanga1" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/hackerrank.png"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/VishnuVVR-369" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/github.png"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/vishnuvardhanganji/profile" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/geeksforgeeks.png" /> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.interviewbit.com/profile/vishnuvardhan-reddy-ganji" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/interviewbit.png" /> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 📫 How to reach me
 
