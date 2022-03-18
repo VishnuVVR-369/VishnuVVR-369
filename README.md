@@ -24,14 +24,30 @@
 - 😎 I’m currently learning Machine Learning.
 - 🎯 I’m focusing on Competitive Programming.
 
+# 👨‍🎓 Programming Profiles
+
+<a href="https://www.codechef.com/users/vishnu_vvr" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/codechef.png"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Vishnu_1105" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/codeforces.png"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/vishnuvardhanganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/leetcode.png"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/vishnuvardhanga1" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/hackerrank.png"/> </a>
+
 # 📫 How to reach me
 
-<a href="https://wa.me/8186886586" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-whatsapp.png" width="27px" /> </a>
-<a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/002-linkedin.png" width="27px" /> </a>
-<a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/003-instagram.png" width="27px" /> </a>
-<a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/004-facebook.png" alt="Vishnu's Facebook" width="27px" /> </a>
-<a href="https://twitter.com/VishnuVVRTech" target="blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/006-twitter.png" width="27px" /> </a>
+<a href="https://wa.me/8186886586" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/001-whatsapp.png" width="27px" /> </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/002-linkedin.png" width="27px" /> </a>
+&nbsp;
+<a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/003-instagram.png" width="27px" /> </a>
+&nbsp;
+<a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/004-facebook.png" alt="Vishnu's Facebook" width="27px" /> </a>
+&nbsp;
+<a href="https://twitter.com/VishnuVVRTech" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/006-twitter.png" width="27px" /> </a>
+&nbsp;
 <a href="mailto:vishnuvardhanganji@gmail.com"> <img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/007-gmail.png" width="27px"/> </a>
+&nbsp;
 
 <br>
 <!-- TODO: Add Project Open for Contribution. -->
