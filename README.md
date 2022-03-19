@@ -6,7 +6,7 @@
 <!-- <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/developer1.gif" width="50px"> -->
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/VishnuVVR-369)
-![Profile Visitors](https://komarev.com/ghpvc/?username=VishnuVVR-369&color=green)
+![](https://komarev.com/ghpvc/?username=VishnuVVR-369&label=PROFILE+VIEWS)
 [![Repos Badge](https://badges.pufler.dev/repos/VishnuVVR-369)](https://github.com/VishnuVVR-369?tab=repositories)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/VishnuVVR-369/The-Complete-FAANG-Preparation)
 [![GitHub followers](https://img.shields.io/github/followers/VishnuVVR-369?style=social)](https://github.com/VishnuVVR-369?tab=followers)
