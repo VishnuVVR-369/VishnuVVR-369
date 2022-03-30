@@ -80,7 +80,7 @@
   <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/002-js.png" alt="JavaScript" width="40" height="40"/></code>
   <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/010-structure.png" alt="React" width="40" height="40"/></code>
   <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/008-nodejs.png" alt="Node JS" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="Git" width="40" height="40"/></code>
+  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/git.png" alt="Git" width="40" height="40"/></code>
   <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/007-github.png" alt="GitHub" width="40" height="40"/></code>
   <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/009-mysql.png" alt="MySql" width="40" height="40"/></code>
 </p>
