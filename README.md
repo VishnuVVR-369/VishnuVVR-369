@@ -2,7 +2,7 @@
   <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/developer1.gif" width="300px">
 </p>
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://vishnu-1105.github.io/my-portfolio/"> VishnuVardhan Reddy </a> </h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:50%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://vishnu-1105.github.io/my-portfolio/"> VishnuVardhan Reddy </a> </h1>
 <!-- <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/developer1.gif" width="50px"> -->
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/VishnuVVR-369)
