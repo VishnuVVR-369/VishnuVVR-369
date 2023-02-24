@@ -7,21 +7,17 @@
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/VishnuVVR-369)
 ![](https://komarev.com/ghpvc/?username=VishnuVVR-369&color=blueviolet)
-[![Repos Badge](https://badges.pufler.dev/repos/VishnuVVR-369)](https://github.com/VishnuVVR-369?tab=repositories)
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=VishnuVVR-369.profileviews-badge)](https://github.com/VishnuVVR-369)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/VishnuVVR-369/The-Complete-FAANG-Preparation)
 [![GitHub followers](https://img.shields.io/github/followers/VishnuVVR-369?style=social)](https://github.com/VishnuVVR-369?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/)
-[![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/8186886586)
-[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/VishnuVVRTech)
-[![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/vishnuvardhanreddy.ganji.56)
-[![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/v_i_s_h_n_u__vvr/)
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:vishnuvardhanganji@gmail.com)
 
 <br>
 
-- 🔭 I'm in the 3<sup>rd</sup> year of B.Tech Computer Science.
-- 🌱 I’m currently working on Open-Source.
-- 😎 I’m currently learning Machine Learning.
+- 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
+- 🌱 I’m currently working on Full Stack Web Development.
+- 😎 I’m currently interning @FactSet.
 - 🎯 I’m focusing on Competitive Programming.
 
 # 👨‍🎓 Programming Profiles
@@ -96,7 +92,7 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishnuVVR-369&theme=dracula" />
 </p>
 
-![Vishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=VishnuVVR-369&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
 
 ![Vishnu's github activity graph](https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
