@@ -1,103 +1,75 @@
+# Vishnuvardhan Reddy
+
+**Software engineer building AI products & data-intensive systems.**
+
+`Hyderabad, India` &nbsp;·&nbsp; `SWE III @ FactSet` &nbsp;·&nbsp; [`vvr.dev`](https://vvr.dev)
+
+[![Portfolio](https://img.shields.io/badge/vvr.dev-f5b454?style=flat-square&logo=vercel&logoColor=0a0a0b)](https://vvr.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0b?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vishnu-vvr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0b?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/vishnuvardhanganji)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0b?style=flat-square&logo=github&logoColor=eceae6)](https://github.com/VishnuVVR-369)
+[![Email](https://img.shields.io/badge/Email-0a0a0b?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:vishnuvardhanganji@gmail.com)
+
+---
+
+I build and ship products end-to-end — two live right now, both with real users.
+**[Chat with PDF](https://chatwithpdf.pro)** makes any document answerable, even the
+scanned ones; **VoiceFlow** turns speech into polished writing in any app. The day
+job at FactSet runs the same loop on data-intensive systems financial professionals
+rely on — intern to SWE III in three years, each rung earned, not gifted. Either way,
+I build the version of a system I can still defend a year later — when the constraints
+have changed and the shortcut looks tempting.
+
+### ⟢ Currently
+
+- 🔧 &nbsp;Building a RAG evaluation harness for **Chat with PDF v2**
+- 📖 &nbsp;Re-reading *Designing Data-Intensive Applications*
+- 🟢 &nbsp;LeetCode **Guardian** (top 1%) — 365-day streak and counting
+
+### ⟢ Selected work
+
+**[Chat with PDF](https://chatwithpdf.pro)** — ask any document a question, even the scanned ones nobody can search.
+> `Next.js` · `Convex` · `Google Document AI` · `Gemini Embeddings`
+> 150+ docs indexed · 100+ users · sub-3s answers
+> &nbsp;[live ↗](https://chatwithpdf.pro) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/chat-pdf)
+
+**VoiceFlow** — system-level voice-to-text that turns speech into polished writing in any app.
+> `Electron` · `Rust` · `Whisper` · `TypeScript`
+> 3–4× faster than typing · sub-1s latency · macOS / Windows / Linux
+> &nbsp;[repo ↗](https://github.com/VishnuVVR-369/voice-flow)
+
+<sub>Full case studies, decisions, and tradeoffs → **[vvr.dev/projects](https://vvr.dev/projects)**</sub>
+
+### ⟢ Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0b?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0a0a0b?style=flat-square&logo=python&logoColor=FFD43B)
+![React](https://img.shields.io/badge/React-0a0a0b?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0b?style=flat-square&logo=nextdotjs&logoColor=eceae6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0b?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0b?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0a0a0b?style=flat-square&logo=express&logoColor=eceae6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0b?style=flat-square&logo=postgresql&logoColor=4169E1)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0b?style=flat-square&logo=langchain&logoColor=eceae6)
+![Docker](https://img.shields.io/badge/Docker-0a0a0b?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0a0a0b?style=flat-square&logo=git&logoColor=F05032)
+
+### ⟢ By the numbers
+
 <p align="center">
-  <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/developer1.gif" width="300px">
+  <img width="42%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VishnuVVR-369&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=f5b454&icon_color=f5b454&text_color=9a9a95&bg_color=0a0a0b&ring_color=f5b454" />
+  &nbsp;
+  <img width="42%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=VishnuVVR-369&hide_border=true&background=0a0a0b&stroke=1f1f23&ring=f5b454&fire=f5b454&currStreakLabel=f5b454&currStreakNum=eceae6&sideNums=eceae6&sideLabels=9a9a95&dates=5c5c58&dayLabels=9a9a95" />
 </p>
-
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:50%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://vishnu-1105.github.io/my-portfolio/"> VishnuVardhan Reddy </a> </h1>
-<!-- <img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/png/developer1.gif" width="50px"> -->
-
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/VishnuVVR-369)
-![](https://komarev.com/ghpvc/?username=VishnuVVR-369&color=blueviolet)
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=VishnuVVR-369.profileviews-badge)](https://github.com/VishnuVVR-369)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/VishnuVVR-369/The-Complete-FAANG-Preparation)
-[![GitHub followers](https://img.shields.io/github/followers/VishnuVVR-369?style=social)](https://github.com/VishnuVVR-369?tab=followers)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/)
-[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:vishnuvardhanganji@gmail.com)
-
-<br>
-
-- 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
-- 🌱 I’m currently working on Full Stack Web Development.
-- 😎 I’m currently interning @FactSet.
-- 🎯 I’m focusing on Competitive Programming.
-
-# 👨‍🎓 Programming Profiles
-
-<a href="https://www.codechef.com/users/vishnu_vvr" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/codechef.png"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Vishnu_1105" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/codeforces.png"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/vishnuvardhanganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/leetcode.png"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/vishnuvardhanga1" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/hackerrank.png"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/VishnuVVR-369" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/github.png"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/vishnuvardhanganji/profile" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/geeksforgeeks.png" /> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.interviewbit.com/profile/vishnuvardhan-reddy-ganji" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/interviewbit.png" /> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-# 📫 How to reach me
-
-<a href="https://wa.me/8186886586" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/001-whatsapp.png" width="27px" /> </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vishnuvardhan-reddy-ganji/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/002-linkedin.png" width="27px" /> </a>
-&nbsp;
-<a href="https://www.instagram.com/v_i_s_h_n_u__vvr/" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/003-instagram.png" width="27px" /> </a>
-&nbsp;
-<a href="https://www.facebook.com/vishnuvardhanreddy.ganji.56" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/004-facebook.png" alt="Vishnu's Facebook" width="27px" /> </a>
-&nbsp;
-<a href="https://twitter.com/VishnuVVRTech" target="_blank"><img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/006-twitter.png" width="27px" /> </a>
-&nbsp;
-<a href="mailto:vishnuvardhanganji@gmail.com"> <img align="center" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/007-gmail.png" width="27px"/> </a>
-&nbsp;
-
-<br>
-<!-- TODO: Add Project Open for Contribution. -->
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=VishnuVVR-369&column=8&margin-w=15&margin-h=15&theme=onedark"/>
-  </a>
+  <img width="40%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVVR-369&layout=compact&langs_count=8&hide_border=true&title_color=f5b454&text_color=9a9a95&bg_color=0a0a0b" />
 </p>
 
-<br>
-
-# 🧰 My Tech Toolbox
-
-<p align="left">
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/001-python.png" alt="Python" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/004-c.png" alt="C++" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/005-java.png" alt="Java" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/003-html-5.png" alt="HTML5" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/006-css-3.png" alt="CSS3" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/002-js.png" alt="JavaScript" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/010-structure.png" alt="React" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/008-nodejs.png" alt="Node JS" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/git.png" alt="Git" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/007-github.png" alt="GitHub" width="40" height="40"/></code>
-  <code><img src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/009-mysql.png" alt="MySql" width="40" height="40"/></code>
+<p align="center">
+  <img width="62%" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/vishnuvardhanganji?theme=dark&font=Baloo%202&ext=contest" />
 </p>
 
-<br>
+---
 
-# 📊 My GitHub Stats
-
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuVVR-369&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=Cheers 🥂 Programmers! &layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVVR-369&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVVR-369&layout=compact&theme=dracula" width="50%"/><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishnuVVR-369&theme=dracula" />
-</p>
-
-
-
-![Vishnu's github activity graph](https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-<!-- TODO: Add MyCertificates. -->
-
-<!-- TODO:Add Social Media Handles. -->
-
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/VishnuVVR-369/VishnuVVR-369/blob/master/Icons/marquee.svg"/>
+<sub>I read every email — the short ones get the fastest replies. More at **[vvr.dev](https://vvr.dev)**.</sub>
