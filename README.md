@@ -38,6 +38,11 @@ have changed and the shortcut looks tempting.
 > 3–4× faster than typing · sub-1s latency · macOS / Windows / Linux
 > &nbsp;[repo ↗](https://github.com/VishnuVVR-369/voice-flow)
 
+**[SceneVault](https://excalidraw-service.vercel.app)** — an Excalidraw library service: organize unlimited scenes in nested folders, generate diagrams from a prompt, and edit them live with others.
+> `Next.js` · `Convex` · `Better Auth` · `Cloudflare R2`
+> AI diagram generation · real-time collab rooms · folder search & autosave
+> &nbsp;[live ↗](https://excalidraw-service.vercel.app) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/scene-vault)
+
 <sub>Full case studies, decisions, and tradeoffs → **[vvr.dev/projects](https://vvr.dev/projects)**</sub>
 
 ### ⟢ Stack
