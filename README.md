@@ -62,13 +62,7 @@ have changed and the shortcut looks tempting.
 ### ⟢ By the numbers
 
 <p align="center">
-  <img width="42%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VishnuVVR-369&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=f5b454&icon_color=f5b454&text_color=9a9a95&bg_color=0a0a0b&ring_color=f5b454" />
-  &nbsp;
-  <img width="42%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=VishnuVVR-369&hide_border=true&background=0a0a0b&stroke=1f1f23&ring=f5b454&fire=f5b454&currStreakLabel=f5b454&currStreakNum=eceae6&sideNums=eceae6&sideLabels=9a9a95&dates=5c5c58&dayLabels=9a9a95" />
-</p>
-
-<p align="center">
-  <img width="40%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVVR-369&layout=compact&langs_count=8&hide_border=true&title_color=f5b454&text_color=9a9a95&bg_color=0a0a0b" />
+  <img width="100%" alt="GitHub contributions" src="https://gitlyy.vercel.app/api/contribution?username=VishnuVVR-369&hide_border=true" />
 </p>
 
 <p align="center">
