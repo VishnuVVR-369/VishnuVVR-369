@@ -33,10 +33,10 @@ have changed and the shortcut looks tempting.
 > 150+ docs indexed · 100+ users · sub-3s answers
 > &nbsp;[live ↗](https://chatwithpdf.pro) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/chat-pdf)
 
-**VoiceFlow** — system-level voice-to-text that turns speech into polished writing in any app.
+**[VoiceFlow](https://voice-flow-max.vercel.app)** — system-level voice-to-text that turns speech into polished writing in any app.
 > `Electron` · `Rust` · `Whisper` · `TypeScript`
 > 3–4× faster than typing · sub-1s latency · macOS / Windows / Linux
-> &nbsp;[repo ↗](https://github.com/VishnuVVR-369/voice-flow)
+> &nbsp;[live ↗](https://voice-flow-max.vercel.app) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/voice-flow)
 
 **[SceneVault](https://excalidraw-service.vercel.app)** — an Excalidraw library service: organize unlimited scenes in nested folders, generate diagrams from a prompt, and edit them live with others.
 > `Next.js` · `Convex` · `Better Auth` · `Cloudflare R2`
