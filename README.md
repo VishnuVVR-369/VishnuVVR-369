@@ -12,35 +12,41 @@
 
 ---
 
-I build and ship products end-to-end — two live right now, both with real users.
-**[Chat with PDF](https://chatwithpdf.pro)** makes any document answerable, even the
-scanned ones; **VoiceFlow** turns speech into polished writing in any app. The day
-job at FactSet runs the same loop on data-intensive systems financial professionals
-rely on — intern to SWE III in three years, each rung earned, not gifted. Either way,
-I build the version of a system I can still defend a year later — when the constraints
-have changed and the shortcut looks tempting.
+I build and ship products end-to-end - three live right now, the older two with real users.
+**[open-bot](https://useopenbot.com)** gives AI teammates a computer of their own, and you can watch them work and take the wheel any time.
+**[Chat with PDF](https://chatwithpdf.pro)** makes any document answerable, even the scanned ones.
+**[VoiceFlow](https://voice-flow-max.vercel.app)** turns speech into polished writing in any app.
+The day job at FactSet runs the same loop on data-intensive systems financial professionals rely on - intern to SWE III in three years, each rung earned, not gifted.
+Either way, I build the version of a system I can still defend a year later - when the constraints have changed and the shortcut looks tempting.
 
 ### ⟢ Currently
 
-- 🔧 &nbsp;Building a RAG evaluation harness for **Chat with PDF v2**
+- 🔧 &nbsp;Building **[open-bot](https://useopenbot.com)** - AI teammates with a computer of their own
 - 📖 &nbsp;Re-reading *Designing Data-Intensive Applications*
-- 🟢 &nbsp;LeetCode **Guardian** (top 1%) — 365-day streak and counting
+- 🟢 &nbsp;LeetCode **Guardian** (top 1%) - 365-day streak and counting
 
 ### ⟢ Selected work
 
-**[Chat with PDF](https://chatwithpdf.pro)** — ask any document a question, even the scanned ones nobody can search.
-> `Next.js` · `Convex` · `Google Document AI` · `Gemini Embeddings`
-> 150+ docs indexed · 100+ users · sub-3s answers
+**[open-bot](https://useopenbot.com)** - AI teammates that do real work on a computer of their own, personal and open source.
+> `Next.js` · `Codex app-server` · `Postgres` · `Docker` · `Electron`\
+> live screen takeover · nothing ships without your OK · web, desktop & Android\
+> &nbsp;[live ↗](https://useopenbot.com) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/open-bot)
+
+<a href="https://useopenbot.com"><img width="100%" alt="open-bot: Milo, a travel teammate, compares flights to Lisbon in a real browser on its own screen, streamed live with a Take over button" src="assets/open-bot.jpg" /></a>
+
+**[Chat with PDF](https://chatwithpdf.pro)** - ask any document a question, even the scanned ones nobody can search.
+> `Next.js` · `Convex` · `Google Document AI` · `Gemini Embeddings`\
+> 150+ docs indexed · 100+ users · sub-3s answers\
 > &nbsp;[live ↗](https://chatwithpdf.pro) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/chat-pdf)
 
-**[VoiceFlow](https://voice-flow-max.vercel.app)** — system-level voice-to-text that turns speech into polished writing in any app.
-> `Electron` · `Rust` · `Whisper` · `TypeScript`
-> 3–4× faster than typing · sub-1s latency · macOS / Windows / Linux
+**[VoiceFlow](https://voice-flow-max.vercel.app)** - system-level voice-to-text that turns speech into polished writing in any app.
+> `Electron` · `Rust` · `Whisper` · `TypeScript`\
+> 3–4× faster than typing · sub-1s latency · macOS / Windows / Linux\
 > &nbsp;[live ↗](https://voice-flow-max.vercel.app) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/voice-flow)
 
-**[SceneVault](https://excalidraw-service.vercel.app)** — an Excalidraw library service: organize unlimited scenes in nested folders, generate diagrams from a prompt, and edit them live with others.
-> `Next.js` · `Convex` · `Better Auth` · `Cloudflare R2`
-> AI diagram generation · real-time collab rooms · folder search & autosave
+**[SceneVault](https://excalidraw-service.vercel.app)** - an Excalidraw library service: organize unlimited scenes in nested folders, generate diagrams from a prompt, and edit them live with others.
+> `Next.js` · `Convex` · `Better Auth` · `Cloudflare R2`\
+> AI diagram generation · real-time collab rooms · folder search & autosave\
 > &nbsp;[live ↗](https://excalidraw-service.vercel.app) &nbsp;·&nbsp; [repo ↗](https://github.com/VishnuVVR-369/scene-vault)
 
 <sub>Full case studies, decisions, and tradeoffs → **[vvr.dev/projects](https://vvr.dev/projects)**</sub>
@@ -51,6 +57,8 @@ have changed and the shortcut looks tempting.
 ![Python](https://img.shields.io/badge/Python-0a0a0b?style=flat-square&logo=python&logoColor=FFD43B)
 ![React](https://img.shields.io/badge/React-0a0a0b?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0b?style=flat-square&logo=nextdotjs&logoColor=eceae6)
+![React Native](https://img.shields.io/badge/React%20Native-0a0a0b?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-0a0a0b?style=flat-square&logo=electron&logoColor=47848F)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0b?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0b?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-0a0a0b?style=flat-square&logo=express&logoColor=eceae6)
@@ -71,4 +79,4 @@ have changed and the shortcut looks tempting.
 
 ---
 
-<sub>I read every email — the short ones get the fastest replies. More at **[vvr.dev](https://vvr.dev)**.</sub>
+<sub>I read every email - the short ones get the fastest replies. More at **[vvr.dev](https://vvr.dev)**.</sub>
